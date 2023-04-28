@@ -1,6 +1,6 @@
 # Easy testable node app 
 
-This is a simple node-app that makes appointments and tests them.
+This is a simple node-app with the idea of a appointments system with unit tests.
 
 the idea is to have an app that makes unit tests and is completely independent
 without databases and queries.
